@@ -1,5 +1,6 @@
 # !!!ATENÇÃO!!!
 - Esse projeto é inicial, apenas para estudo e desenvolvimento dos usuários.
+- Veja o arquivo [ComoContribuir.ini](ComoContribuir.ini) para saber como colaborar.
 - Em 📁documentos estarei alimentando material técnico inicial, como fundamentos de git, python e outros.
 - Conforme o avanço do projeto a nível tende a subir.
 - Não há custo de participação ou de qualquer outro fator a não ser seu próprio tempo.
@@ -38,7 +39,7 @@ O objetivo é identificar padrões de contratação, rotatividade, perfil de car
 - Extensão GitHub
 
 ## 5.Estrutura de Diretório
-📁dados/
+```📁dados/
     📁times/
         📁serie_a
         📁serie_b
@@ -55,9 +56,10 @@ O objetivo é identificar padrões de contratação, rotatividade, perfil de car
     📁...
 📁src/
     📁...
+```
 
 ## 6.Contribuição
-Contribuições são bem-vindas! Veja o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber como colaborar.
+Contribuições são bem-vindas! Veja o arquivo [ComoContribuir.ini](ComoContribuir.ini) para saber como colaborar.
 
 ## 7.Licença
 Este projeto está licenciado sob a MIT License.
